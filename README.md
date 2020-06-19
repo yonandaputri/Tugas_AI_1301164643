@@ -1,2 +1,2 @@
-# Tugas_AI_1301164643
+# Tugas_AI
 Penyimpanan Tugas AI
